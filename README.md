@@ -1,8 +1,5 @@
 # CAPSTONESUBSCRIPTION-
 
-Here's an updated repository structure that reflects the tools you used:
-
-_(link unavailable)_
 
 # Sales Performance Analysis
 
@@ -41,4 +38,5 @@ Analyze sales data for a retail store using SQL, Microsoft Excel, and Power BI t
 4. Analysis of data in Excel folder
 5. Creation of Power BI dashboard in Power BI folder
 
-`
+## Visualisation
+
