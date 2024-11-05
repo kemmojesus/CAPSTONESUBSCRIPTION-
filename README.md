@@ -44,13 +44,11 @@ Analyze sales data for a retail store using SQL, Microsoft Excel, and Power BI t
 
 ![SALES](https://github.com/user-attachments/assets/15efc6a2-59ba-43a3-91cf-1cf2090f34c5)
 
-![power bi](https://github.com/user-attachments/assets/83827acf-8786-4ebf-94af-8cda53324346)
 
 ![HAT](https://github.com/user-attachments/assets/f0cab243-cafb-424f-8049-e67a0b82c066)
 
 ![EAST](https://github.com/user-attachments/assets/825bab63-ac15-44fd-9e4d-d5aeb74dfce9)
 
-![CaptureSQLSALES](https://github.com/user-attachments/assets/8e5e7a58-7c01-4725-a0d6-33671adaf580)
 
 ![CaptureSQL3](https://github.com/user-attachments/assets/013d4cec-d6fb-456d-8be9-d31b0242a016)
 
